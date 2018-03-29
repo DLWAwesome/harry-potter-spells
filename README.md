@@ -17,3 +17,10 @@ Arania Exumai|used to blast away arachnids
 Arresto Momentum|used to slow a moving target
 Ascendio|launches caster into the air
 Avada Kedavera|everyone knows the iconic killing curse
+
+### Contact, License, and Other Legal Stuff
+GIF image by (ceebee)[https://scratch.mit.edu/users/ceebee].
+
+Licenced under the (MIT License)[https://github.com/DLWAwesome/harry-potter-spells/blob/master/LICENSE].
+
+🎨 with ❤️ by (DLWAwesome)[https://scratch.mit.edu/users/DLWAwesome].
