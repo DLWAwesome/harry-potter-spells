@@ -36,7 +36,7 @@ Crucio|pain curse
 
 
 ### Contact, License, and Other Legal Stuff
-GIF image by (ceebee)[https://scratch.mit.edu/users/ceebee].
+GIF image by [ceebee](https://scratch.mit.edu/users/ceebee).
 
 Licenced under the [MIT License](https://github.com/DLWAwesome/harry-potter-spells/blob/master/LICENSE).
 
